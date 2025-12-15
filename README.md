@@ -6,11 +6,11 @@ This README has been written with [Github's documentation on README](https://doc
 
 ## Project Structure
 
-applied_statistics
-├── .gitignore             # Prevents unnecessary or auto-generated files from being committed
-├── README.md              # This file
-├── problems.ipynb         # The full assessment notebook (all four problems completed here)
-└── requirements.txt       # Python dependencies required to run the notebook
+applied_statistics   
+├── .gitignore             # Prevents unnecessary or auto-generated files from being committed    
+├── README.md              # This file    
+├── problems.ipynb         # The full assessment notebook (all four problems completed here)    
+└── requirements.txt       # Python dependencies required to run the notebook    
 
 ## Problems covered
 
@@ -38,8 +38,6 @@ This problem compares one-way ANOVA with multiple pairwise t-tests when analysin
 
 > Note: All required Python packages are listed in `requirements.txt`.
 
----
-
 ### Setup Steps
 
 1. **Clone the repository**
@@ -62,7 +60,7 @@ This problem compares one-way ANOVA with multiple pairwise t-tests when analysin
     pip install -r requirements.txt
     ```
 
-4. **Launch Jupyter**
+4. **Launch Jupyter**     
     Option A: Jupyter Lab
     ```bash
     jupyter lab
