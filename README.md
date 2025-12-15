@@ -6,11 +6,14 @@ This README has been written with [Github's documentation on README](https://doc
 
 ## Project Structure
 
-applied_statistics   
-├── .gitignore             # Prevents unnecessary or auto-generated files from being committed    
-├── README.md              # This file    
-├── problems.ipynb         # The full assessment notebook (all four problems completed here)    
-└── requirements.txt       # Python dependencies required to run the notebook    
+Folder: applied_statistics    
+  
+| File                 | Description |
+|----------------------|-------------|
+| `.gitignore`         | Prevents unnecessary or auto-generated files from being committed |
+| `README.md`          | Project overview and instructions (this file) |
+| `problems.ipynb`     | Full assessment notebook containing all four problems |
+| `requirements.txt`   | Python dependencies required to run the notebook |
 
 ## Problems covered
 

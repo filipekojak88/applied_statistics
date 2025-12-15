@@ -2,16 +2,6 @@
 Install these dependencies using pip:
 pip install -r requirements.txt"""
 
-
-ipython
-numpy
+numpy        
 scipy
-statsmodels
 matplotlib
-pandas
-seaborn
-# sympy
-# nose
-# scikit-learn
-# qiskit[visualization]
-# yfinance
