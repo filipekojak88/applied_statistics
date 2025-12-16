@@ -6,8 +6,8 @@ This README has been written with [Github's documentation on README](https://doc
 
 ## Project Structure
 
-Folder: applied_statistics    
-  
+Repository: applied_statistics
+
 | File                 | Description |
 |----------------------|-------------|
 | `.gitignore`         | Prevents unnecessary or auto-generated files from being committed |
@@ -19,13 +19,13 @@ Folder: applied_statistics
 
 The notebook addresses the four assessment problems:
 
-1. **Extending the Lady Tasting Tea**   
+1. **Extending the Lady Tasting Tea**
 This problem extends Fisher’s original Lady Tasting Tea experiment by increasing the design from 8 cups to 12 cups. Using simulation, the probability of correctly identifying all cups by chance is estimated for both designs and compared. The aim is to show how increasing the number of cups strengthens the statistical evidence against random guessing, while keeping the hypothesis-testing framework unchanged.
 
-2. **Normal Distribution**   
+2. **Normal Distribution**
 This problem investigates sampling variability in estimates of the standard deviation. A large number of samples are drawn from a standard normal distribution, and the standard deviation is computed using both ddof = 0 (population SD) and ddof = 1 (sample SD). By comparing their sampling distributions, the problem illustrates estimator bias, variability, and how these properties change as sample size increases.
 
-3. **t-Tests** 
+3. **t-Tests**
 This problem explores Type II error in hypothesis testing using simulation. Independent samples are drawn from normal distributions with increasing differences in means, and two-sample t-tests are repeatedly performed. The proportion of times the null hypothesis is not rejected is estimated and plotted, demonstrating how the Type II error rate decreases as the true difference between means increases.
 
 4. **ANOVA**
@@ -63,7 +63,7 @@ This problem compares one-way ANOVA with multiple pairwise t-tests when analysin
     pip install -r requirements.txt
     ```
 
-4. **Launch Jupyter**     
+4. **Launch Jupyter**
     Option A: Jupyter Lab
     ```bash
     jupyter lab
