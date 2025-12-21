@@ -1,6 +1,6 @@
 # Applied Statistics — Assessment Problems (ATU)
 
-This repository contains my submission for the **Applied Statistics** assessment taught by by the lecturer Ian McLoughlin in ATU, delivered in a single Jupyter notebook: `problems.ipynb`, which codes follow PEP 8 conversions. The notebook solves the four required problems using a mix of **analytical reasoning**, **simulation**, and **hypothesis testing**, with explanations and references included throughout. 
+This repository contains my submission for the **Applied Statistics** assessment taught by the lecturer Ian McLoughlin in ATU, delivered in a single Jupyter notebook: `problems.ipynb`, which codes follow PEP 8 conversions. The notebook solves the four required problems using a mix of **analytical reasoning**, **simulation**, and **hypothesis testing**, with explanations and references included throughout. 
 
 This README has been written with [Github's documentation on README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind. MarkDown was used in this README file and was based on [GitHub's Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
