@@ -28,7 +28,7 @@ This problem investigates sampling variability in estimates of the standard devi
 3. **t-Tests**     
 This problem explores Type II error in hypothesis testing using simulation. Independent samples are drawn from normal distributions with increasing differences in means, and two-sample t-tests are repeatedly performed. The proportion of times the null hypothesis is not rejected is estimated and plotted, demonstrating how the Type II error rate decreases as the true difference between means increases.
 
-4. **ANOVA**
+4. **ANOVA**    
 This problem compares one-way ANOVA with multiple pairwise t-tests when analysing more than two group means. Three samples with different population means are generated, and both approaches are applied. The results are compared to show how ANOVA provides a single global test while controlling the overall error rate, highlighting why ANOVA is preferred over running several independent t-tests.
 
 ## How to run
